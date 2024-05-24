@@ -6,7 +6,7 @@ If you have questions or need tech support, post your questions to the [classroo
 
 Happy coding!
 
-Notion Docs Link: [Notion Spring Boot Docs by Suman](https://sumanx.notion.site/Spring-boot-Helpers-72368e0776f44ca1a02359e6cee5430c)
+Notion Docs Link: [Notion Spring Boot Docs by Suman](https://sumanx.notion.site/Spring-Boot-063f4d6f290f4f7fa62c4d0ee1436c43?pvs=74)
 
 [<img src="images/spring-boot-3-spring-6-and-hibernate-thumbnail-small.png">](http://www.luv2code.com/spring-github)
 
